@@ -6,19 +6,18 @@
  */
 int main(void)
 {
-	unsigned char a = '0';
-	int i;
+	 char a = '0';
+	 char c;
 
-	for (i = 0; i < 10; i++)
+	while (d <= '9')
 	{
 		putchar(a);
 		a++;
 	}
-	a = i;
-	for (i = 0; i < 6; i++)
+	
+	for (c = 'a'; c <= 'f'; c++)
 	{
-		putchar('0' + a);
-		a++;
+		putchar(c);
 	}
 	putchar('\n');
 	return (0);
