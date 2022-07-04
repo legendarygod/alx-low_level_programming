@@ -15,7 +15,7 @@ int main(void)
 		a++;
 	}
 	a = i;
-	for (i = 0; i < 6; i++;)
+	for (i = 0; i < 6; i++)
 	{
 		putchar('0' + a);
 		a++;
