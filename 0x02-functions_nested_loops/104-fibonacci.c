@@ -4,7 +4,6 @@
  * main- main entry
  * description: really does something
  * @num: passed argument, integer
- * @numLength: passed arg, integer
  * Return: 0
  */
 int numLength(int num)
@@ -24,6 +23,7 @@ int numLength(int num)
 }
 /**
  * main - prints the first 98 fib seq
+ * @numLength: passed argument
  * Return: 0
  */
 int main(void)
