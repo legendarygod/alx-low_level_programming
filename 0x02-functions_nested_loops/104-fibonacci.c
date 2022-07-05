@@ -4,6 +4,7 @@
  * main- main entry
  * description: really does something
  * @num: passed argument, integer
+ * @numLength: passed arg, integer
  * Return: 0
  */
 int numLength(int num)
