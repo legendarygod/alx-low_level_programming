@@ -2,7 +2,7 @@
 
 /**
  * main - entry point
- *
+ * description: natural numbers
  * Return: always success
  */
 int main(void)

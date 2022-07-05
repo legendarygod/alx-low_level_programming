@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * jack_bauer
- *
+ * description: jack bauer, fine
  * Return: void
  */
 void jack_bauer(void)
@@ -38,7 +38,7 @@ void jack_bauer(void)
 				minutes_tens++;
 			}
 			minutes_tens = '0';
-			hours_onees++;
+			hours_ones++;
 		}
 		hours_ones = '0';
 		hours_tens++;

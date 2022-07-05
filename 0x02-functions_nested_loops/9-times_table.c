@@ -1,10 +1,10 @@
 #include "main.h"
 /**
  * times_table - entry point
- *
+ * description: print, print pprint
  * Return: void
  */
-void times_table(void)
+void print_times_table(void)
 {
 	int row, column, product, tens, ones;
 

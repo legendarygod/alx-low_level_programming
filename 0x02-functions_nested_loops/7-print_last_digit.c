@@ -1,10 +1,10 @@
 #include "main.h"
 /**
  * print_last_digit - entry point
- *
+ * description: last digit print
  * Returs: last digit of int
  */
-int print_last_digit(int)
+int print_last_digit(int n)
 {
 	int last = n % 10;
 

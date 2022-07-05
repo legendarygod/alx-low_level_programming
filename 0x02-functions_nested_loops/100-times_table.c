@@ -2,7 +2,7 @@
 
 /**
  * print_times_table - entry point
- *
+ * description: we do numbers out here
  * Return: Number matrix
  */
 void print_times_table(int n)
@@ -11,7 +11,7 @@ void print_times_table(int n)
 
 	if (n >= 0 && n <= 14)
 	{
-		for (x = 0; x <= n, x++)
+		for (x = 0; x <= n; x++)
 		{
 			for (y = 0; y <= n; y++)
 			{
@@ -21,7 +21,7 @@ void print_times_table(int n)
 					_putchar(',');
 					_putchar(32);
 					_putchar((z / 100) + '0');
-					_putchar(((z / 10) % 10 + '0');
+					_putchar(((z / 10) % 10 + '0'));
 					_putchar((z % 10) + '0');
 				}
 				else if (z > 9)

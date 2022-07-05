@@ -3,7 +3,7 @@
 
 /**
  * print_to_98 - entry point
- *
+ * description: more printing
  * Return: print from 1 to 98
  */
 void print_to_98(int n)

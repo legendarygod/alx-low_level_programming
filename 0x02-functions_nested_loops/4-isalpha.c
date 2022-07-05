@@ -2,7 +2,7 @@
 
 /**
  * _isalpha -  entry point
- *
+ * description: isalpha
  * Return: 1 if true, 0 if false
  */
 
