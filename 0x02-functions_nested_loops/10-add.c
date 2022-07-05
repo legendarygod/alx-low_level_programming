@@ -2,6 +2,8 @@
 
 /**
  * add - entry point
+ * @n1: integer 1
+ * @n2: integer 2
  * description: just adds.
  * Return: sum
  */

@@ -4,6 +4,7 @@
 /**
  * print_to_98 - entry point
  * description: more printing
+ * @n: integer to be passed in
  * Return: print from 1 to 98
  */
 void print_to_98(int n)

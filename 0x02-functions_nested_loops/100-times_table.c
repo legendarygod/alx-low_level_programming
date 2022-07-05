@@ -2,6 +2,7 @@
 
 /**
  * print_times_table - entry point
+ * @n: integer to be passed in
  * description: we do numbers out here
  * Return: Number matrix
  */

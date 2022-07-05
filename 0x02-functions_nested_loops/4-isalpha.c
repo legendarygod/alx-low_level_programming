@@ -2,6 +2,7 @@
 
 /**
  * _isalpha -  entry point
+ * @c: the integer value it recieves init
  * description: isalpha
  * Return: 1 if true, 0 if false
  */

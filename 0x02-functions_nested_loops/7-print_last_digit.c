@@ -2,7 +2,8 @@
 /**
  * print_last_digit - entry point
  * description: last digit print
- * Returs: last digit of int
+ * @n: integer passed into the function
+ * Return: last digit of int
  */
 int print_last_digit(int n)
 {

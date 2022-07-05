@@ -3,7 +3,8 @@
 /**
  * main - entry point
  * description: printing moire and  roe
- * Return: o
+ *
+ * Return: Nothing!
  */
 int main(void)
 {
@@ -14,7 +15,7 @@ int main(void)
 	{
 		if (i == 0)
 			printf("%ld", j);
-		else if (i ==1)
+		else if (i == 1)
 			printf(", %ld", k);
 		else
 		{

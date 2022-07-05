@@ -1,7 +1,8 @@
 #include "main.h"
  /**
   * _islower - entry point
-  * description: returns lower init
+  * @c: the int argument it recieves
+  * Description: print lower case
   * Return: 1 if true, 0 if false
   */
 int _islower(int c)

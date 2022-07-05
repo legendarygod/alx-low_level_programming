@@ -2,7 +2,8 @@
 
 /**
  * main- main entry
- *
+ * description: really does something
+ * @num: passed argument, integer
  * Return: 0
  */
 int numLength(int num)
