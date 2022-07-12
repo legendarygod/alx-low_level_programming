@@ -3,8 +3,7 @@
 /**
  * puts_half - entry point
  *
- *
- * @str: pointer 
+ *@str: pointer
  */
 
 void puts_half(char *str)
