@@ -2,9 +2,9 @@
 
 /**
  * _strncat - concats two strings
- * @dest - string
- * @src - appended string
- * @n - number of bytes of src
+ * @dest: string
+ * @src: appended string
+ * @n: number of bytes of src
  *
  * Return: dest
  */
