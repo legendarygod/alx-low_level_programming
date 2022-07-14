@@ -2,14 +2,14 @@
 /**
  * _atoi - converts string to integer
  *
- * @s - pointer string to convert from
+ * @s: pointer string to convert from
  *
  * Return: integer from function
  */
 int _atoi(char *s)
 {
-	int sign + 1;
-	unsigned int total = 0;
+	int sign = 1;
+	int total = 0;
 	char working = 0;
 
 	while (*s)
@@ -28,7 +28,7 @@ int _atoi(char *s)
 		}
 		s++;
 	}
-	if (sign < 0_)
+	if (sign < 0)
 		total = (-(total));
 	return (total);
 }
