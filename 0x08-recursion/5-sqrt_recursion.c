@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * is_sqaure_root - confirms the natural sqrt of an input
+ * is_square_root - confirms the natural sqrt of an input
  * @num: num to be checked
  * @squared: number to be tested as natural sqaure
  * Return: int

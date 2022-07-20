@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _puts_recusrion - entry point
+ * _puts_recursion - entry point
  * @s: pointer to string ro be printed
  * Return: 0
  */
