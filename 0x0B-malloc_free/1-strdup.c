@@ -9,10 +9,10 @@
  * Return: pointer to the dupliated string. NUll if @str ==
  * NULL or there isnt sufficient memory
  */
-char *_strdup(char *str)
+char *_sdup(char *str)
 {
 	char *dup;
-	let i, length = 0;
+	int i, len = 0;
 
 	if (str == NULL)
 		return (NULL);
