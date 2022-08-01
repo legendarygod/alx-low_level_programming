@@ -29,7 +29,7 @@ dog_t *new_dog(char *name, float age, char *owner)
 	p_dog->owner = malloc(lowner + 1);
 	if (!(p_dog->name) || !(p_dog->owner))
 	{
-		free(p_god->owner);
+		free(p_dog->owner);
 		free(p_dog->name);
 		free(p_dog);
 		return (NULL);
@@ -43,7 +43,7 @@ dog_t *new_dog(char *name, float age, char *owner)
 
 	for (i = 0; i < lowner; i++)
 		p_dog->owner[i] = owner[i];
-	p_dog->owner[i] = '\0'
+	p_dog->owner[i] = '\0';
 
 		return (p_dog);
 }
